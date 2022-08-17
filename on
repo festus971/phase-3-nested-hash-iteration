@@ -1,0 +1,10 @@
+
+[1mFrom:[0m /home/moringa/Documents/prework/Development/clone items/code/phase-3-nested-hash-iteration/contacts.rb:25 Object#remove_strawberry:
+
+    [1;34m22[0m: [32mdef[0m [1;34mremove_strawberry[0m(contacts)
+    [1;34m23[0m:   [1;34m# your code here![0m
+    [1;34m24[0m:   contacts.each [32mdo[0m |person, contact_details_hash|
+ => [1;34m25[0m:     binding.pry
+    [1;34m26[0m:   [32mend[0m
+    [1;34m27[0m: [32mend[0m
+
